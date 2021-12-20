@@ -7,7 +7,7 @@ $Welcome = "Mo Expense Tracker";
 <html>
     <head>
         <title>
-            php
+            PHP
         </title>
 </head>
 <body>
