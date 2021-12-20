@@ -13,6 +13,6 @@ jobs:
       with:
         server: moexpense.atwebpages.com
         username: 4011122_moexpense
-        password: ${{ secrets.ftp_password }}
+        password: ${{ secrets.ftp_pass }}
         protocol: ftps
         server-dir: moexpense.atwebpages.com/
