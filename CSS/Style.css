@@ -1,9 +1,9 @@
 body {
   background-color: rgb(255, 255, 255);
 }
-.logo {
-  text-indent: -99999999999px;
-  background: url(logo.png);
-  width: auto;
-  height: auto;
+header{
+
+}
+img{
+ width: 100%; 
 }
