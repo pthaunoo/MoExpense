@@ -1,8 +1,8 @@
 body {
   background-color: rgb(255, 255, 255);
 }
-header{
-
+header img{
+float:center;
 }
 img{
  width: 995px; 
