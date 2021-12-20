@@ -1,8 +1,10 @@
 body {
-  background-color: rgb(255, 251, 251);
+  background-color: rgb(167, 10, 10);
 }
 .logo {
-    text-indent: -99999999999;
+    text-indent: -99999px;
     background: url(logo.png);
+    width: 960px;
+    height: 148px;
 
 }
