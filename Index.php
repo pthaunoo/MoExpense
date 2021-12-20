@@ -8,7 +8,7 @@
   <body>
     <div class="wrapper">
     <div class="logo">
-      <img src="image.logo.png" alt="logo">
+      <img src="image/logo.png" alt="logo">
     </div>
     <ul class="nav-area:>
       <li> <a href= "#">home</a></li>
