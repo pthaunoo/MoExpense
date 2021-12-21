@@ -32,7 +32,7 @@ background: none;
 display: block;
 margin: 20px auto;
 text-align: center;
-border: 3px solid #0367fd;
+border: 3px solid #cc1e1e;
 padding: 14px 10px;
 width: 220px;
 outline: none;
@@ -44,7 +44,7 @@ transition: 0.25px;
 
 .box input[type="text"]:focus,.box input[type="password"]:focus{
   width: 270px;
-  border-color: #ffc400ec;
+  border-color: #0cdf5dec;
 
 }
 
@@ -55,7 +55,7 @@ transition: 0.25px;
   display: block;
   margin: 20px auto;
   text-align: center;
-  border: 3px solid #0367fd;
+  border: 3px solid #cc1e1e;
   padding: 14px 35px;
   width: 220px;
   outline: none;
@@ -66,5 +66,5 @@ transition: 0.25px;
 }
 
 .box input[type="submit"]:hover{
-  background: #ffc400ec;
+  background: #0cdf5dec;
 }
